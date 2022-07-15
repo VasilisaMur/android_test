@@ -7,5 +7,16 @@
     tools:context=".MainActivity">
 
     <!-- Место для верстки -->
+    <!-- image 16 -->
+    <ImageView
+        android:id="@+id/image_16"
+        android:layout_width="628dp"
+        android:layout_height="354dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="-126dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="-40dp"
+        android:background="@drawable/image_16"
+        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
